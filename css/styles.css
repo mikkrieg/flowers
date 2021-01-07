@@ -1,8 +1,10 @@
 .unimportant{
   text-align: center;
+  margin: 20px 0 50px 0;
 }
 
 .important {
   text-align: center;
   background-image: linear-gradient(yellow, orange);
+  margin: 40px 0 50px 0;
 }
