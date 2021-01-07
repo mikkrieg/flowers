@@ -1,4 +1,4 @@
-# _Michelles flower pageS_
+# _Michelles flower pages_
 
 #### _A webpage about flowers_
 
